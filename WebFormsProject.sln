@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFormsProject.Website", "WebFormsProject.Website\WebFormsProject.Website.csproj", "{E4C614FC-C8A6-42C0-98DC-DD185C7D96E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFormsProject.Data", "WebFormsProject.Data\WebFormsProject.Data.csproj", "{28CBC72E-CEA7-4209-AE33-1BBB4C82CD89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFormsProject.Domain", "WebForms.Domain\WebFormsProject.Domain.csproj", "{60008918-07D7-40F3-8358-DA698977E601}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFormsProject.Services", "WebForms.Services\WebFormsProject.Services.csproj", "{3A07BDF2-AB2C-4F8A-A6F6-E00F63074A62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFormsProject.Test", "WebFormsProject.Test\WebFormsProject.Test.csproj", "{D46248F4-178F-47CC-A606-6D64FAEEC8A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4C614FC-C8A6-42C0-98DC-DD185C7D96E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4C614FC-C8A6-42C0-98DC-DD185C7D96E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4C614FC-C8A6-42C0-98DC-DD185C7D96E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4C614FC-C8A6-42C0-98DC-DD185C7D96E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28CBC72E-CEA7-4209-AE33-1BBB4C82CD89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28CBC72E-CEA7-4209-AE33-1BBB4C82CD89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28CBC72E-CEA7-4209-AE33-1BBB4C82CD89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28CBC72E-CEA7-4209-AE33-1BBB4C82CD89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60008918-07D7-40F3-8358-DA698977E601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60008918-07D7-40F3-8358-DA698977E601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60008918-07D7-40F3-8358-DA698977E601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60008918-07D7-40F3-8358-DA698977E601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A07BDF2-AB2C-4F8A-A6F6-E00F63074A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A07BDF2-AB2C-4F8A-A6F6-E00F63074A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A07BDF2-AB2C-4F8A-A6F6-E00F63074A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A07BDF2-AB2C-4F8A-A6F6-E00F63074A62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D46248F4-178F-47CC-A606-6D64FAEEC8A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46248F4-178F-47CC-A606-6D64FAEEC8A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46248F4-178F-47CC-A606-6D64FAEEC8A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46248F4-178F-47CC-A606-6D64FAEEC8A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.2\lib\NET35
+	EndGlobalSection
+EndGlobal
